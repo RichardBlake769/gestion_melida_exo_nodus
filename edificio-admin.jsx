@@ -708,8 +708,8 @@ export default function App() {
             </div>
           </div>
         </Modal>
-    </div>
-  );
-};
+      );
+      };
+      export default EdificioAdmin;
+      
 
-export default EdificioAdmin;
