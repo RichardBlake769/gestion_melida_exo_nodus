@@ -705,6 +705,7 @@ export default function App() {
               <button className="btn btn-primary" onClick={addExpense}>
                 <Icon d={icons.check} size={14} /> Registrar gasto
             </button>
+              </button>
       </div>
     </div>
   </Modal>
