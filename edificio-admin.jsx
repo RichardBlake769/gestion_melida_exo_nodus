@@ -704,8 +704,7 @@ export default function App() {
               <button className="btn btn-ghost" onClick={() => setShowModal(null)}>Cancelar</button>
               <button className="btn btn-primary" onClick={addExpense}>
                 <Icon d={icons.check} size={14} /> Registrar gasto
-            </button>
-              </button>
+        </button>
       </div>
     </div>
   </Modal>
