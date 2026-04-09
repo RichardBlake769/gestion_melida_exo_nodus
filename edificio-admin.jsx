@@ -706,7 +706,6 @@ export default function App() {
                 <Icon d={icons.check} size={14} /> Registrar gasto
               </button>
             </div>
-          </div>
         </Modal>
       );
       };
